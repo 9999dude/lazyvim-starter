@@ -1,4 +1,8 @@
 return {
+  -- {
+  --   "folke/tokyonight.nvim",
+  --   opts = { style = "moon" },
+  -- },
   {
     "nyoom-engineering/oxocarbon.nvim",
     lazy = false,
